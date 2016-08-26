@@ -1,0 +1,11 @@
+$header-bg-color: #eee;
+$header-color: #369;
+$header-font: Arial, Helvetica, sans-serif;
+.app-header {
+    color: $header-color;
+    background-color: $header-bg-color;
+    font-family: $header-font;
+    font-size: 100%;
+    padding: 1em 1em 1em 1em;
+
+}
